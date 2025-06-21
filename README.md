@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Abdelhalim from Morocco<br><br>- 🔭 I’m a Master degree student.<br>- 📚 I'm currently learning Business Management<br>- ⚡ In my free time I practice flutter ~</p>
+<p align="left">I'm Abdelhalim from Morocco<br><br>- 🔭 I’m a Master degree student.<br>- 📚 I'm currently studying Business Management<br>- ⚡ In my free time I practice flutter ~</p>
 
 ###
 
